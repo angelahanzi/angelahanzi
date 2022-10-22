@@ -1,4 +1,4 @@
-- ☀️ Hi, I’m @angelahanzi
+- ☀️ Hi, I’m Angela
 - 👀 I’m interested in programming, web design and graphic design
 - 🌱 I’m currently learning to how to use gitHub
 - 💞️ I’m looking to develop my coding skills
